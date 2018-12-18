@@ -88,3 +88,8 @@ ROBOTSTXT_OBEY = False
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
+# 搜索关键字
+KEYWORDS = ['ipad']
+# 最大页数
+MAX_PAGE = 10
